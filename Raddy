@@ -1,0 +1,11 @@
+local args = {
+    [1] = "a=Instance.new('Model',workspace)a.Name='NRobPalZilqcKALgcZITLSzdFp'"
+}
+
+game:GetService("ReplicatedStorage").MorphEvents.MorphRaddy:FireServer(unpack(args))
+
+local args = {
+    [1] = "a=Instance.new('Model',workspace)a.Name='AiRqZHspvOrTmtK'"
+}
+
+game:GetService("ReplicatedStorage").MobileEvents.Raddy:FireServer(unpack(args))
